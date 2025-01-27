@@ -1,2 +1,2 @@
 # PowerBIProject1
-Projects from Youtube videos from Kevin Stratvert
+PowerBI Projects from Youtube videos by Kevin Stratvert
